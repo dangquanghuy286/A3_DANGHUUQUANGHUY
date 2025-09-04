@@ -1,13 +1,14 @@
-# React + Vite
+#  Result Narration Checklist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [x] A3: Map & Location List Synchronization  
+  **Libraries used:** ReactJS + TailwindCSS +  Google Maps API + lucide-react
 
-Currently, two official plugins are available:
+  - [x] Display the list of locations in a list view and all locations must be marked on the map  
+  - [x] Allow user to sort the list of locations by rating  
+  - [x] Allow user to search the list of locations by name or address  
+  - [x] Allow user to select a location from the list and the map will be synchronized with the selected location (fly to the selected location)  
+  - [x] Highlight both the list and the map marker of the selected location  
+  - [x] Show a popup/tooltip with location details when clicking the marker  
+  - [ ] Optimize the locations list for large dataset  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # A3_DANGHUUQUANGHUY
