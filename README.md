@@ -1,7 +1,7 @@
 #  Result Narration Checklist
 
 - [x] A3: Map & Location List Synchronization  
-  **Libraries used:** ReactJS + TailwindCSS + Mapbox GL / Google Maps API
+  **Libraries used:** ReactJS + TailwindCSS +  Google Maps API + lucide-react
 
   - [x] Display the list of locations in a list view and all locations must be marked on the map  
   - [x] Allow user to sort the list of locations by rating  
