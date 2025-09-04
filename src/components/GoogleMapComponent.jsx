@@ -89,8 +89,8 @@ const GoogleMapComponent = ({
           icon={{
             url:
               selectedLocation?.id === location.id
-                ? "http://maps.google.com/mapfiles/ms/icons/green-dot.png"
-                : "http://maps.google.com/mapfiles/ms/icons/red-dot.png",
+                ? "https://img.icons8.com/pulsar-gradient/48/marker.png"
+                : "https://img.icons8.com/officel/40/marker.png",
             scaledSize: new window.google.maps.Size(32, 32),
           }}
         >
