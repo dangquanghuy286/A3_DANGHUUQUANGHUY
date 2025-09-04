@@ -90,7 +90,7 @@ const GoogleMapComponent = ({
             url:
               selectedLocation?.id === location.id
                 ? "https://img.icons8.com/pulsar-gradient/48/marker.png"
-                : "https://img.icons8.com/officel/40/marker.png",
+                : "https://img.icons8.com/officel/48/marker.png",
             scaledSize: new window.google.maps.Size(32, 32),
           }}
         >
