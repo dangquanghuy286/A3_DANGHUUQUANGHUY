@@ -9,6 +9,6 @@
   - [x] Allow user to select a location from the list and the map will be synchronized with the selected location (fly to the selected location)  
   - [x] Highlight both the list and the map marker of the selected location  
   - [x] Show a popup/tooltip with location details when clicking the marker  
-  - [x] Optimize the locations list for large dataset  
+  - [ ] Optimize the locations list for large dataset  
 
 # A3_DANGHUUQUANGHUY
