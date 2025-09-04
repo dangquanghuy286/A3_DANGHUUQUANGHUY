@@ -1,5 +1,5 @@
 import React from "react";
-import { MapPin } from "lucide-react";
+import { MapPin, Search } from "lucide-react";
 import RatingStars from "./RatingStars";
 
 const LocationList = ({
